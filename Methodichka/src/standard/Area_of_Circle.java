@@ -9,7 +9,7 @@ public class Area_of_Circle {
 		float radius = input.nextFloat();
 		
 		float Area = (float) Math.PI*(radius*radius);	
-		System.out.println(Area);
+		System.out.println("Area = "+Area);
 	}
 
 }
